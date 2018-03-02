@@ -6,11 +6,11 @@
 ## 二、内容展示
 ### 1.主页
 
-![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/3.png "主页")
+![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png "主页")
 
 ### 2.商品详情
 
-![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/3.png "商品详情")
+![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/4.png "商品详情")
 
 ### 3.搜索列表
 
@@ -18,7 +18,7 @@
 
 ### 4.个人中心
 
-![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/4.png "个人中心")
+![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/3.png "个人中心")
 
 ### 5.登录和注册
 
