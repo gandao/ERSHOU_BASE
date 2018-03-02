@@ -1,8 +1,8 @@
 # vue-test
 
-  A Vue.js project
   注：由于未将后台部分代码上传，故脱离后台后基本不能运行，正在进行重构希望能解决该问题并将其他功能进行优化，移步到[重构版](https://github.com/gandao/ErShou)
 ## 一、简介
+  该项目基于Vue2实现的电子商务的spa应用，整个项目包含：登录/注册、主页、商品详情、个人中心、商品检索部分，所用到的技术栈是：Vue2+vue-router+axios+webpack+less+element 
 ## 二、内容展示
 ### 1.主页
 
