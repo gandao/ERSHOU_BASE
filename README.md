@@ -5,7 +5,7 @@
 ## 一、简介
 ## 二、内容展示
 ### 1.主页
-![主页]（https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png）
+![主页]（https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png "主页"）
 ### 2.商品详情
 ![主页]（https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png）
 ### 3.搜索列表
