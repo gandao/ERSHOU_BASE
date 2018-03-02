@@ -6,7 +6,7 @@
 ## 二、内容展示
 ### 1.主页
 
-![主页](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png =200x100)
+![home_page](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png =200x100)
 
 ### 2.商品详情
 
