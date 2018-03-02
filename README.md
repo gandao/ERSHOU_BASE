@@ -1,7 +1,7 @@
 # vue-test
 
-   A Vue.js project
-   注：由于未将后台部分代码上传，故脱离后台后基本不能运行，正在进行重构希望能解决该问题并将其他功能进行优化，移步到[重构版](https://github.com/gandao/ErShou)
+  A Vue.js project
+  注：由于未将后台部分代码上传，故脱离后台后基本不能运行，正在进行重构希望能解决该问题并将其他功能进行优化，移步到[重构版](https://github.com/gandao/ErShou)
 ## 一、简介
 ## 二、内容展示
 ### 1.主页
