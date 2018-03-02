@@ -5,7 +5,7 @@
 ## 一、简介
 ## 二、内容展示
 ### 1.主页
-![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png "百度logo")
+![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png =1000x500 "百度logo")
 ### 2.商品详情
 ![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/3.png "百度logo")
 ### 3.搜索列表
