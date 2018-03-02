@@ -5,12 +5,15 @@
 ## 一、简介
 ## 二、内容展示
 ### 1.主页
-![baidu](https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png "百度logo")
-### 2.商品详情
 [foryou]:https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/1.png
+### 2.商品详情
+[foryou]:https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/2.png
 ### 3.搜索列表
+[foryou]:https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/3.png
 ### 4.个人中心
+[foryou]:https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/4.png
 ### 5.登录和注册
+[foryou]:https://github.com/gandao/ERSHOU_BASE/blob/master/resource/Image_desc/2.png
 
 
 
